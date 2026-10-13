@@ -58,7 +58,7 @@ npx --yes pipellm-pi-provider --help
 Pi host packages are optional peers. The package does not bundle them.
 
 Default commands install npm `latest`. To select a fixed version, use `pi install npm:pipellm-pi-provider@0.3.8`.
-The `pi-package` keyword enables discovery in the [Pi package gallery](https://pi.dev/packages).
+This package is listed in the [official Pi package gallery](https://pi.dev/packages/pipellm-pi-provider?name=pipellm-pi-provider).
 
 <details>
 <summary>Install from GitHub Releases or a compatible Pi fork</summary>
